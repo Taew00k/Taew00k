@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </div>
-<br><br>
+<br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Taew00k&show_icons=true&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taew00k&layout=compact&theme=dracula">
