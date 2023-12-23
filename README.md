@@ -12,5 +12,6 @@
 </div>
 <br><br>
 <div>
-  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taew00k&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taew00k&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=Taew00k&show_icons=true&theme=radical">
 </div>
