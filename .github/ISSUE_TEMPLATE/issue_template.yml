@@ -9,7 +9,7 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: "🪷 기능 설명"
+      label: "## 🪷 기능 설명"
       description: "추가하려는 기능에 대해 자세히 설명해주세요."
       placeholder: "ex) - UI 구현 완료"
     validations:
@@ -20,7 +20,7 @@ body:
   - type: textarea
     id: tasks
     attributes:
-      label: "🛠️ 작업 목록"
+      label: "## 🛠️ 작업 목록"
       description: "작업 항목을 한 줄씩 입력하세요. 엔터를 눌러 다음 줄로 넘어갈 수 있습니다."
       value: |
         - [ ] 
@@ -33,6 +33,6 @@ body:
   - type: textarea
     id: reference
     attributes:
-      label: "📚 참고 자료"
+      label: "## 📚 참고 자료"
       description: "참고할만한 자료의 링크나 설명을 추가해주세요 (선택 사항)."
       placeholder: "ex) - tanstack-query stale time: (링크)"
