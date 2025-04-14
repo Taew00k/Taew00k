@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Taewook's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=250)
-<br>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=davis0625)](https://solved.ac/davis0625/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=davis0625)](https://solved.ac/davis0625/)
 ## :wrench: tech stack
 <div style="width:50">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
